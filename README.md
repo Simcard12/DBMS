@@ -114,8 +114,5 @@ The database follows a relational model with appropriate foreign key constraints
 ## License
 This project is available for educational and non-commercial use.
 
-## Contributors
-- [Your Name/Team]
-
 ## Last Updated
 May 13, 2025
